@@ -73,7 +73,6 @@ y_pred
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 ![232792645-c94ea977-7f7f-42f1-8bc2-2ef1eb21b069](https://github.com/Kavi45-msk/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147457752/12bb2274-5169-4b9b-987b-781fbb47f0fa)
 ![232793035-55900682-9446-405d-a216-3696c9df95d1](https://github.com/Kavi45-msk/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147457752/27aad290-0a32-45fa-a264-5245c8480a2b)
 ![232792678-0f8793c5-41a6-4b44-b7ea-0d4548fa6158](https://github.com/Kavi45-msk/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147457752/8f50e42e-42dd-4fd4-b334-9ba88ebbbf9d)
